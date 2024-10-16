@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<manifest identifier="ebu7wHAVGPkMADhNM1cE6AFKxsSrSVp9OTMMAlFm" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Elevating Our Guest Experience at Florence Focaccia</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Elevating Our Guest Experience at Florence Focaccia</title>
+        <adlcp:datafromlms>eyJjcHYiOiJPVE1NQWxGbSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/da205479.js" />
+<file href="scormcontent/lib/rise/6e0d8631.css" />
+<file href="scormcontent/lib/rise/fe7b716a.js" />
+<file href="scormcontent/lib/rise/a0ba8649.css" />
+<file href="scormcontent/lib/rise/e18925f7.js" />
+<file href="scormcontent/lib/rise/92e0d0dc.js" />
+<file href="scormcontent/lib/rise/2c5680f5.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/60f22e8d.js" />
+<file href="scormcontent/lib/mondrian/2a243580.js" />
+<file href="scormcontent/lib/mondrian/215fe725.js" />
+<file href="scormcontent/lib/mondrian/c16e7dd3.js" />
+<file href="scormcontent/lib/mondrian/5ebb90af.js" />
+<file href="scormcontent/lib/mondrian/825dd797.js" />
+<file href="scormcontent/lib/mondrian/beccd965.js" />
+<file href="scormcontent/lib/mondrian/56ae9b9c.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/small_1726707270373.png" />
+<file href="scormcontent/assets/oWZoz0DS2dinEfdC.jpg" />
+<file href="scormcontent/assets/stock-image.jpg" />
+<file href="scormcontent/assets/Florence%20Foccacia%20New%20Video%20%281%29.mp4" />
+<file href="scormcontent/assets/Florence%20Foccacia%20New%20Video%20%281%29.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20195756.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20200042.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20200143.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20200304.jpg" />
+<file href="scormcontent/assets/quote_background.jpg" />
+<file href="scormcontent/assets/MayaAngelou.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20210701.jpg" />
+<file href="scormcontent/assets/OKyHXA/stock-image.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20211820.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20211918.jpg" />
+<file href="scormcontent/assets/picutre.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20212053.jpg" />
+<file href="scormcontent/assets/Screenshot%202024-09-18%20212129.jpg" />
+<file href="scormcontent/assets/bakery-cafe.jpg" />
+<file href="scormcontent/assets/1Csof7qMxND4iYlP_310_full.png" />
+<file href="scormcontent/assets/XVFWgFQdLcjB9osQ_336_full.png" />
+<file href="scormcontent/assets/TGcCbKSoNoCzi91P_414_full.png" />
+<file href="scormcontent/assets/oHFKu6f3kNV0Tyyw_419_full.png" />
+<file href="scormcontent/assets/dDtc5d7qIZ5OV8Er_439_full.png" />
+<file href="scormcontent/assets/NL0XEibGCixHAR81_338_full.png" />
+<file href="scormcontent/assets/jeLp3DGLPIWPvQYy_392_full.png" />
+<file href="scormcontent/assets/7xONiOzB5ZB_smYT_415_full.png" />
+<file href="scormcontent/assets/mFsuX4LFA44gVMzZ_337_full.png" />
+<file href="scormcontent/assets/pGgJyynBChEohtxA_396_full.png" />
+<file href="scormcontent/assets/f6LX70CDaL4gbun6_428_full.png" />
+<file href="scormcontent/assets/00hA89pOs62MTrYQ_409_full.png" />
+<file href="scormcontent/assets/YdH3DV4lEJaM_xAe_443_full.png" />
+<file href="scormcontent/assets/FY2OZO5x2TeJE86A_445_full.png" />
+<file href="scormcontent/assets/X4LRrX3rBn8AmEsa_406_full.png" />
+<file href="scormcontent/assets/Iielycg3e9qP7pxf_440_full.png" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
